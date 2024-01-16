@@ -1,3 +1,8 @@
+
+<h3>
+ 🚧 D'autres projets vont prochainement être ajoutés, restez connectés ! 🚧
+</h3>
+
 <p align="center">
 </p align="center">
 <img src="https://github.com/florianarnau/florianarnau/blob/master/WEARFUTUR.png" />
