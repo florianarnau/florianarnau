@@ -11,8 +11,8 @@
 
 </p>
 
-<p align="center">
-  Je suis un développeur passionné et créatif, passionné par le développement web. Actuellement, je travaille sur le développement de mon entreprise, un projet qui me passione et qui est très important pour moi. Vous pouvez dailleurs voir l'avancement <a href="https://florianarnau.github.io">ici</a>. 
+<p align="left">
+  En tant que développeur passionné et créatif, fervent admirateur du développement web, je consacre actuellement mes efforts à l'évolution de ma propre entreprise. Ce projet me tient particulièrement à cœur. Pour suivre son avancement, n'hésitez pas à jeter un œil <a href="https://florianarnau.github.io" target="_blank">ici</a>.
 </p>
 
 <h2 align="left">Technology Stack <img src="https://github.com/florianarnau/florianarnau/blob/main/images/laptop.gif" width="50"></h2>
