@@ -1,5 +1,4 @@
 <p align="center">
- 
 </p align="center">
 <img src="https://github.com/florianarnau/florianarnau/blob/master/WEARFUTUR.png" />
 
@@ -12,9 +11,9 @@
 
 </p>
 
-<!-- <p align="center">
-  Je suis un développeur passionné et créatif, passionné par [tes domaines d'intérêt]. Actuellement, je travaille sur [ton projet actuel], un projet passionnant qui [brève description].
-</p>   -->
+<p align="center">
+  Je suis un développeur passionné et créatif, passionné par le développement web. Actuellement, je travaille sur le développement de mon entreprise, un projet qui me passione et qui est très important pour moi. Vous pouvez dailleurs voir l'avancement <a href="https://florianarnau.github.io">ici</a>. 
+</p>
 
 <h2 align="left">Technology Stack <img src="https://github.com/florianarnau/florianarnau/blob/main/images/laptop.gif" width="50"></h2>
 
