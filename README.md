@@ -1,12 +1,11 @@
-
-<h3>
- 🚧 D'autres projets vont prochainement être ajoutés, restez connectés ! 🚧
-</h3>
-
 <p align="center">
 </p align="center">
 <img src="https://github.com/florianarnau/florianarnau/blob/master/WEARFUTUR.png" />
-
+<br>
+<h1>
+ 🚧 D'autres projets vont prochainement être ajoutés, restez connectés ! 🚧
+</h1>
+<br>
 <p align="left">
  
  <img src="https://badges.pufler.dev/visits/florianarnau/florianarnau"/> 
