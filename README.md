@@ -74,19 +74,6 @@ En parallèle, je construis une double compétence en **Big Data & IA** --- avec
   </tr>
 </table>
 
-<br/>
-
-## `> projets --highlights`
-
-<details>
-<summary><strong>Prjet1</summary>
-<br/>
-Lorem ipsum<br/>
-<code>Lorem ipsum</code>
-</details>
-
----
-
 <div align="center">
   
 <br/>
